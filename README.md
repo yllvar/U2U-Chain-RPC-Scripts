@@ -28,7 +28,7 @@ Before running the scripts, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yllvar/U2U-Chain-RPC-Scripts.git
    cd u2u-chain-rpc
    ```
 
